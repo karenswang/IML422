@@ -1,0 +1,27 @@
+body{
+   
+    background-size: cover;
+
+        
+    height: 100vh;
+    margin:0;
+    text-align: center;
+/*    padding-left: 100px;*/
+/*    padding-right: 100px;*/
+}
+
+.pic1{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.2{
+    align-content: center;
+    align-self: center;
+}
+
+.3{
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}

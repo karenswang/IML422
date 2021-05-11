@@ -1,0 +1,34 @@
+body{
+/*    background-image: url('http://miriadna.com/desctopwalls/images/max/Through-violet-forest.jpg');*/
+    background-size: cover;
+    background-color: #008B8B;
+        
+    height: 100vh;
+/*
+    padding-left:10px;
+    padding-right: 300px;
+*/
+    margin:0;
+/*    text-align: center;*/
+}
+
+body{
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    padding: 40px;
+    
+}
+
+a{
+    color:beige;
+    background-color: cadetblue;
+}
+
+.big{
+    font-style: oblique;
+}
+
+.whole{
+    padding-left: 350px;
+    padding-right:350px;
+}
